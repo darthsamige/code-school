@@ -1,0 +1,224 @@
+.home-page-header {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+.logo {
+    margin-left: 20px;
+}
+
+.menu {
+    margin-right: 20px;
+}
+
+.home-page-intro-box {
+    width: 100%;
+    padding: 20px 0 20px 0;
+    text-align: center;
+    color: #fff;
+    background: linear-gradient(to bottom, #21abc7,#616db3);
+    margin-bottom: 30px
+}
+
+.intro-header-text {
+    font-size: 26px;
+    margin-bottom: 15px;
+    font-weight: 300;
+}
+
+.intro-text {
+    width: 80%;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+.intro-button{
+    font-size: 18px;
+    background: #ffae1c;
+    border: 1px solid #ffae1c;
+    border-radius: 50px;
+    color: #fff;
+    padding: 15px;
+    font-weight: 600;
+}
+
+.why-learn{
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+.start-learning{
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: #f9f9f9;
+    height: 100%;
+}
+
+.start-learning-h1{
+    font-weight: 400;
+}
+
+.container{
+  display: flex;
+  flex-wrap: wrap;
+   
+  padding-top: 80px;
+  text-align: center;
+}
+.courses-h1{
+    color: deepskyblue;
+}
+
+.ruby{
+    height: 275px;
+    width: 325px;
+    background: white;
+    border-radius: 15px;
+    border: 1px solid gray;
+    margin-right:30px;
+    margin-bottom: 50px;
+}
+
+.javascript{
+    height: 275px;
+    width: 325px;
+    background: white;
+    border-radius: 15px;
+    border: 1px solid gray;
+    margin-right:30px;
+    margin-bottom: 50px;
+}
+
+.html-css{
+    height: 275px;
+    width: 325px;
+    background: white;
+    border-radius: 15px;
+    border: 1px solid gray;
+    margin-right:30px;
+    margin-bottom: 50px;
+}
+
+.python{
+    height: 275px;
+    width: 325px;
+    background: white;
+    border-radius: 15px;
+    border: 1px solid gray;
+    margin-right:30px;
+    margin-bottom: 50px;
+       
+}
+
+.ios{
+    height: 275px;
+    width: 325px;
+    background: white;
+    border-radius: 15px;
+    border: 1px solid gray;
+    margin-right:30px;
+    margin-bottom: 50px;
+}
+
+.git{
+    height: 275px;
+    width: 325px;
+    background: white;
+    border-radius: 15px;
+    border: 1px solid gray;
+    margin-right:30px;
+    margin-bottom: 50px;
+}
+
+.database{
+    height: 275px;
+    width: 325px;
+    background: white;
+    border-radius: 15px;
+    border: 1px solid gray;
+    margin-right:30px;
+    margin-bottom: 50px;
+}
+
+.electives{
+    height: 275px;
+    width: 325px;
+    background: white;
+    border-radius: 15px;
+    border: 1px solid gray;
+    margin-right:30px;
+    margin-bottom: 100px;
+}
+
+.badge{
+    position: relative;
+top: -30px;
+z-index: 99;
+}
+
+.content{
+    height: 183px;
+    width: 323px;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: -40px;
+    
+    
+   
+}
+
+.button-div{
+    height: 60px;
+    width: 323px;
+    
+}
+
+.start-learning-button{
+    font-size: 12px;
+    background: deepskyblue;
+    border: 1px solid deepskyblue;
+    border-radius: 50px;
+    color: #fff;
+    font-weight: 600;
+    height: 35px;
+    width: 150px;
+}
+
+
+.badge-bottom{
+    background: #eff6f9;
+    height: 69px;
+    width: 323px;
+    
+      border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    
+    
+}
+
+
+.how-it-works{
+    width: 100%;
+    height: 3000px;
+}
+
+.container2{
+    
+    
+}
+
+.h1-hiw{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 120%;
+}
+.watch{
+    padding-left: 20px;
+    padding-right: 20px;
+}
